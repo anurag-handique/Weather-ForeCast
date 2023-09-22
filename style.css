@@ -147,11 +147,15 @@ body {
     margin-top: 10px;
     display: none;
 }
-.header {
+header {
     background: rgba(255, 255, 255, 0.2); 
     color: #fff;
     text-align: center;
     padding: 20px;
     font-size: 24px;
     border-radius: 0px 30px 30px 0px;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
 }
