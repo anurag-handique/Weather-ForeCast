@@ -147,7 +147,7 @@ body {
     margin-top: 10px;
     display: none;
 }
-header {
+.header {
     background: rgba(255, 255, 255, 0.2); 
     color: #fff;
     text-align: center;
